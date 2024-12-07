@@ -1,0 +1,401 @@
+﻿@using System.Text.RegularExpressions
+
+@model IEnumerable<Case>
+@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+@functions {
+    string RemoveHtmlTags(string input)
+        {
+            return Regex.Replace(input, "<.*?>", string.Empty);
+        }
+}
+
+
+<!-- slider_area_start -->
+<div class="slider_area">
+    <div class="single_slider  d-flex align-items-center slider_bg_1 overlay2">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-9">
+                    <div class="slider_text ">
+                        <span>Hãy bắt đầu ngay hôm nay</span>
+                        <h3> Giúp đỡ những hoàn cảnh khó khăn
+                          </h3>
+                        <p>Cùng nhau chung tay xây dựng một thế giới tốt đẹp hơn</p>
+                        <a href="/" class="boxed-btn3">Xem thêm
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- slider_area_end -->
+
+<!-- reson_area_start  -->
+<div class="reson_area section_padding">
+  <div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-6">
+            <div class="section_title text-center mb-55">
+                <h3><span>Tại sao chúng ta nên giúp đỡ những hoàn cảnh khó khăn?</span></h3>
+            </div>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-lg-4 col-md-6">
+            <div class="single_reson">
+                <div class="thum">
+                    <div class="thum_1">
+                        <img src="img/help/1.png" alt="Quyên góp từ thiện">
+                    </div>
+                </div>
+                <div class="help_content">
+                    <h4>Quyên góp từ thiện</h4>
+                    <p>Hành động quyên góp không chỉ mang lại giá trị vật chất mà còn giúp lan tỏa yêu thương đến những người cần giúp đỡ.</p>
+                    <a href="#" class="read_more">Tìm hiểu thêm</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+            <div class="single_reson">
+                <div class="thum">
+                    <div class="thum_1">
+                        <img src="img/help/2.png" alt="Hiến máu nhân đạo">
+                    </div>
+                </div>
+                <div class="help_content">
+                    <h4>Hiến máu nhân đạo</h4>
+                    <p>Hiến máu cứu người là hành động nhân văn, góp phần đem lại sự sống cho những bệnh nhân cần máu.</p>
+                    <a href="#" class="read_more">Tìm hiểu thêm</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+            <div class="single_reson">
+                <div class="thum">
+                    <div class="thum_1">
+                        <img src="img/help/3.png" alt="Tình nguyện viên">
+                    </div>
+                </div>
+                <div class="help_content">
+                    <h4>Tình nguyện viên</h4>
+                    <p>Tham gia tình nguyện giúp xây dựng cộng đồng gắn kết hơn và mang lại niềm vui cho cả người nhận và người cho.</p>
+                    <a href="#" class="read_more">Tìm hiểu thêm</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div>
+<!-- reson_area_end  -->
+
+<!-- latest_activites_area_start  -->
+<div class="latest_activites_area">
+    <div class="video_bg_1 video_activite d-flex align-items-center justify-content-center">
+        <a class="popup-video" href="https://www.youtube.com/watch?v=MG3jGHnBVQs">
+            <i class="flaticon-ui"></i>
+        </a>
+    </div>
+    <div class="container">
+        <div class="row justify-content-end">
+            <div class="col-lg-7">
+                <div class="activites_info">
+                    <div class="section_title">
+                        <h3>
+                            <span>Xem những hoạt động </span><br>
+                            gần đây của chúng tôi
+                        </h3>
+                    </div>
+                    <p class="para_1">Chúng tôi đã thực hiện nhiều hoạt động ý nghĩa để giúp đỡ những hoàn cảnh khó khăn, từ việc tổ chức quyên góp đến hỗ trợ trực tiếp cho các gia đình gặp khó khăn.</p>
+                    <p class="para_2">Hãy cùng xem lại những khoảnh khắc đáng nhớ trong các sự kiện gần đây. Mỗi đóng góp của bạn đều là một bước tiến giúp chúng ta xây dựng một cộng đồng tốt đẹp hơn.</p>
+                    <a href="#" data-scroll-nav='1' class="boxed-btn4">Quyên góp ngay</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- latest_activites_area_end  -->
+
+<!-- popular_causes_area_start  -->
+<div class="popular_causes_area section_padding">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="section_title text-center mb-55">
+                    <h3><span>Hoàn cảnh khó khăn</span></h3>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="causes_active owl-carousel">
+                    @foreach (Case c in Model)
+                    {
+                        <div class="single_cause">
+                            <a href="hoan-canh/@c.Meta-@c.CaseId">
+                                <div class="thumb">
+                                    <img src="@Url.Content("~/images/" + c.ImageUrl)" alt="@c.Title" >
+                                </div>
+                            </a>
+                            <div class="causes_content">
+                                <div class="custom_progress_bar">
+                                    <div class="progress">
+                                        <div class="progress-bar" role="progressbar" style="width: 30%;" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">
+                                            <span class="progres_count">
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="balance d-flex justify-content-between align-items-center">
+                                    <span>Khu vực:</span>
+                                    <span>@c.Location</span>
+                                </div>
+                                <h4>@c.Title</h4>
+                                <p class="" style="display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;">
+                                   @Html.Raw(RemoveHtmlTags(c.Description))
+                                </p>
+                                <a href="hoan-canh/@c.Meta-@c.CaseId" class="read_more">Xem chi tiết</a>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- popular_causes_area_end  -->
+
+<!-- counter_area_start  -->
+<div class="counter_area">
+    <div class="container">
+        <div class="counter_bg overlay">
+            <div class="row">
+                <div class="col-lg-3 col-md-6">
+                    <div class="single_counter d-flex align-items-center justify-content-center">
+                        <div class="icon">
+                            <i class="flaticon-calendar"></i>
+                        </div>
+                        <div class="events">
+                            <h3 class="counter">120</h3>
+                            <p>Finished Event</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="single_counter d-flex align-items-center justify-content-center">
+                        <div class="icon">
+                            <i class="flaticon-heart-beat"></i>
+                        </div>
+                        <div class="events">
+                            <h3 class="counter">120</h3>
+                            <p>Finished Event</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="single_counter d-flex align-items-center justify-content-center">
+                        <div class="icon">
+                            <i class="flaticon-in-love"></i>
+                        </div>
+                        <div class="events">
+                            <h3 class="counter">120</h3>
+                            <p>Finished Event</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="single_counter d-flex align-items-center justify-content-center">
+                        <div class="icon">
+                            <i class="flaticon-hug"></i>
+                        </div>
+                        <div class="events">
+                            <h3 class="counter">120</h3>
+                            <p>Finished Event</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- counter_area_end  -->
+
+<!-- our_volunteer_area_start  -->
+<div class="our_volunteer_area section_padding">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="section_title text-center mb-55">
+                    <h3><span>Đội ngũ tình nguyện viên</span></h3>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-4 col-md-6">
+                <div class="single_volenteer">
+                    <div class="volenteer_thumb">
+                        <img src="img/volenteer/1.png" alt="">
+                    </div>
+                    <div class="voolenteer_info d-flex align-items-end">
+                        <div class="social_links">
+                            <ul>
+                                <li>
+                                    <a href="#"> <i class="fa fa-facebook"></i> </a>
+                                </li>
+                                <li>
+                                    <a href="#"> <i class="fa fa-pinterest"></i> </a>
+                                </li>
+                                <li>
+                                    <a href="#"> <i class="fa fa-linkedin"></i> </a>
+                                </li>
+                                <li>
+                                    <a href="#"> <i class="fa fa-twitter"></i> </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="info_inner">
+                            <h4>Nguyễn Văn Nam</h4>
+                            <p>Người quyên góp</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single_volenteer">
+                    <div class="volenteer_thumb">
+                        <img src="img/volenteer/2.png" alt="">
+                    </div>
+                    <div class="voolenteer_info d-flex align-items-end">
+                        <div class="social_links">
+                            <ul>
+                                <li>
+                                    <a href="#"> <i class="fa fa-facebook"></i> </a>
+                                </li>
+                                <li>
+                                    <a href="#"> <i class="fa fa-pinterest"></i> </a>
+                                </li>
+                                <li>
+                                    <a href="#"> <i class="fa fa-linkedin"></i> </a>
+                                </li>
+                                <li>
+                                    <a href="#"> <i class="fa fa-twitter"></i> </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="info_inner">
+                            <h4>Trần Hải Nam</h4>
+                            <p>Tình nguyện viên</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single_volenteer">
+                    <div class="volenteer_thumb">
+                        <img src="img/volenteer/3.png" alt="">
+                    </div>
+                    <div class="voolenteer_info d-flex align-items-end">
+                        <div class="social_links">
+                            <ul>
+                                <li>
+                                    <a href="#"> <i class="fa fa-facebook"></i> </a>
+                                </li>
+                                <li>
+                                    <a href="#"> <i class="fa fa-pinterest"></i> </a>
+                                </li>
+                                <li>
+                                    <a href="#"> <i class="fa fa-linkedin"></i> </a>
+                                </li>
+                                <li>
+                                    <a href="#"> <i class="fa fa-twitter"></i> </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="info_inner">
+                            <h4>Phạm Quang Huy</h4>
+                            <p>Tình nguyện viên</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- our_volunteer_area_end  -->
+<!-- news__area_start  -->
+<div class="news__area section_padding">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="section_title text-center mb-55">
+                    <h3><span>Tin Tức & Cập Nhật</span></h3>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="news_active owl-carousel">
+                    <div class="single__blog d-flex align-items-center">
+                        <div class="thum">
+                            <img src="img/news/1.png" alt="">
+                        </div>
+                        <div class="newsinfo">
+                            <span>Ngày 18 tháng 7, 2019</span>
+                            <a href="single-blog.html">
+                                <h3>Nước Sạch Quan Trọng Hơn</h3>
+                            </a>
+                            <p>Đoạn văn này đã trở nên phổ biến vào những năm 1960 khi được sử dụng trên các trang giấy của họ, và một lần nữa.</p>
+                            <a class="read_more" href="single-blog.html">Đọc Thêm</a>
+                        </div>
+                    </div>
+                    <div class="single__blog d-flex align-items-center">
+                        <div class="thum">
+                            <img src="img/news/2.png" alt="">
+                        </div>
+                        <div class="newsinfo">
+                            <span>Ngày 18 tháng 7, 2019</span>
+                            <a href="single-blog.html">
+                                <h3>Nước Sạch Quan Trọng Hơn</h3>
+                            </a>
+                            <p>Đoạn văn này đã trở nên phổ biến vào những năm 1960 khi được sử dụng trên các trang giấy của họ, và một lần nữa.</p>
+                            <a class="read_more" href="single-blog.html">Đọc Thêm</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- news__area_end  -->
+
+<div class="make_donation_area section_padding">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="section_title text-center mb-55">
+                    <h3><span>Tiến hành quyên góp</span></h3>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-3 d-flex align-items-center justify-content-center">
+                <img src="~/images/assets/vnpay-qr.jpg" class="img-fluid" alt="VNPay QR">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <div class="donate_now_btn text-center">
+                    <a href="#" class="boxed-btn4">Ủng hộ ngay</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

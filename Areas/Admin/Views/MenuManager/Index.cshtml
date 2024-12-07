@@ -1,0 +1,111 @@
+﻿ @using CharityConnect.Models
+ @model IEnumerable<CharityConnect.Models.Menu>
+
+ @{
+     ViewBag.Title = "Danh sách Menu";
+ }
+
+ @functions {
+     string GetDeleteModalId(Menu m)
+     {
+         return "#deleteModal" + m.MenuId;
+     }
+
+     string GetModalId(Menu m)
+     {
+         return "deleteModal" + m.MenuId;
+     }
+
+ }
+
+ <div class="d-flex align-items-center justify-content-between my-4">
+     <h2 class="gj-font-size-16">Quản lý Menu</h2>
+     <a asp-area="Admin" asp-controller="MenuManager" asp-action="AddEdit" class="btn btn-primary">Tạo mới menu</a>
+ </div>
+
+ <div class="card mb-4">
+     <div class="card-header">
+         <i class="fas fa-table me-1"></i>
+         Danh sách menu người dùng
+     </div>
+     <div class="card-body">
+         <table id="datatablesSimple">
+             <thead>
+                 <tr>
+                     <th>Tên</th>
+                     <th>Liên kết</th>
+                     <th>Meta</th>
+                     <th>Trạng thái</th>
+                     <th>Thứ tự</th>
+                     <th>Ngày tạo</th>
+                     <th>Hành động</th>
+                 </tr>
+             </thead>
+             <tfoot>
+                 <tr>
+                     <th>Tên</th>
+                     <th>Liên kết</th>
+                     <th>Meta</th>
+                     <th>Trạng thái</th>
+                     <th>Thứ tự</th>
+                     <th>Ngày tạo</th>
+                    <th>Hành động</th>
+
+                 </tr>
+             </tfoot>
+             <tbody>
+                 @foreach (Menu m in Model)
+                 {
+                     <tr>
+                         <td>@m.Name</td>
+                         <td>@m.Link</td>
+                         <td class="text-truncate" style="max-width: 200px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;">@m.Meta</td>
+                        <td>
+                            @if (!m.Hide)
+
+                            {
+                                <span>Đang hoạt động</span>
+                            }
+
+                            else
+
+                            {
+                                <span>Không hoạt động</span>
+                            }
+                        </td>
+                        <td>@m.Order</td>
+                        <td>@m.DateBegin.ToString("dd/MM/yyyy | hh:mm:ss tt")</td>
+
+                        <td>
+                            <form asp-controller="MenuManager" asp-action="Delete" method="post">
+                                <input type="hidden" name="id" value="@m.MenuId" />
+                                <a class="btn btn-info" asp-area="Admin" asp-controller="MenuManager" asp-action="AddEdit" asp-route-id="@m.MenuId"><i class="bi bi-pencil-fill"></i></a>
+                                <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="@GetDeleteModalId(m)">
+                                    <i class="bi bi-trash"></i>
+                                </button>
+                                <div class="modal fade" id="@GetModalId(m)" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h1 class="modal-title fs-5" id="exampleModalLabel">
+                                                    Bạn có muốn xóa menu
+                                                    "@m.Name?"
+                                                </h1>
+                                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                            </div>
+
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Hủy</button>
+                                                <button type="submit" class="btn btn-danger">Xóa</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </td>
+                     </tr>
+                 }
+             </tbody>
+         </table>
+     </div>
+ </div>

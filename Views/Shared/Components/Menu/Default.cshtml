@@ -1,0 +1,10 @@
+﻿@model IEnumerable<CharityConnect.Models.Menu>
+
+<ul id="navigation">
+    @foreach (var menu in Model)
+    {
+        <li>
+            <a href="/@menu.Meta">@menu.Name</a>
+        </li>
+    }
+</ul>

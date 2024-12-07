@@ -1,0 +1,3021 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CharityConnect.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CharityConnect.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\admin\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\admin\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\admin\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\admin\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\admin\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\admin\\css\\styles.css",
+      "PackagePath": "staticwebassets\\admin\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\admin\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\admin\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\admin\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\charity-doc\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\css\\main.css",
+      "PackagePath": "staticwebassets\\charity-doc\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\css\\normalize.min.css",
+      "PackagePath": "staticwebassets\\charity-doc\\css\\normalize.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\charity-doc\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\charity-doc\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\charity-doc\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\charity-doc\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\charity-doc\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\charity-doc\\img\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\img\\logo.png",
+      "PackagePath": "staticwebassets\\charity-doc\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\index.html",
+      "PackagePath": "staticwebassets\\charity-doc\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\js\\custom.js",
+      "PackagePath": "staticwebassets\\charity-doc\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\charity-doc\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\charity-doc\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shAutoloader.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shAutoloader.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushAS3.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushAS3.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushBash.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushBash.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushCSharp.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushCSharp.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushCpp.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushCpp.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushCss.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushCss.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushDelphi.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushDelphi.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushDiff.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushDiff.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushErlang.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushErlang.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushGroovy.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushGroovy.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushJScript.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushJava.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushJava.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushPerl.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushPerl.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushPhp.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushPhp.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushPlain.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushPlain.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushPython.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushPython.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushRuby.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushRuby.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushSass.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushSass.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushScala.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushScala.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushSql.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushSql.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushVb.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushVb.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shBrushXml.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shCore.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shCore.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\scripts\\shLegacy.js",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\scripts\\shLegacy.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\styles\\shCore.css",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\styles\\shCore.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\styles\\shCoreDefault.css",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\styles\\shCoreDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\styles\\shCoreDjango.css",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\styles\\shCoreDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\styles\\shCoreEclipse.css",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\styles\\shCoreEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\styles\\shCoreEmacs.css",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\styles\\shCoreEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\styles\\shCoreMDUltra.css",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\styles\\shCoreMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\styles\\shCoreMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\styles\\shCoreRDark.css",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\styles\\shCoreRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\styles\\shThemeDefault.css",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\styles\\shThemeDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\styles\\shThemeDjango.css",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\styles\\shThemeDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\styles\\shThemeEclipse.css",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\styles\\shThemeEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\styles\\shThemeEmacs.css",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\styles\\shThemeEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\styles\\shThemeMDUltra.css",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\styles\\shThemeMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\styles\\shThemeMidnight.css",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\styles\\shThemeMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\charity-doc\\syntax-highlighter\\styles\\shThemeRDark.css",
+      "PackagePath": "staticwebassets\\charity-doc\\syntax-highlighter\\styles\\shThemeRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\css\\gijgo.css",
+      "PackagePath": "staticwebassets\\css\\gijgo.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\css\\style.map",
+      "PackagePath": "staticwebassets\\css\\style.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\css\\theme-default.map",
+      "PackagePath": "staticwebassets\\css\\theme-default.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\images\\10c8309e-5b33-4a0c-a762-9b8696a5e6e6_hc16.webp",
+      "PackagePath": "staticwebassets\\images\\10c8309e-5b33-4a0c-a762-9b8696a5e6e6_hc16.webp"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\images\\120c55c1-37ad-41d5-96f7-db83c1345480_hc04.webp",
+      "PackagePath": "staticwebassets\\images\\120c55c1-37ad-41d5-96f7-db83c1345480_hc04.webp"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\images\\184700ed-e3a2-4807-9009-0dbb176a4526_hc03.webp",
+      "PackagePath": "staticwebassets\\images\\184700ed-e3a2-4807-9009-0dbb176a4526_hc03.webp"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\images\\2cdc87bb-91b3-4b24-87a7-41af65eb24e9_hc09.webp",
+      "PackagePath": "staticwebassets\\images\\2cdc87bb-91b3-4b24-87a7-41af65eb24e9_hc09.webp"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\images\\313a7d37-3c50-4325-ab05-fb93dd18c21d_hc02.webp",
+      "PackagePath": "staticwebassets\\images\\313a7d37-3c50-4325-ab05-fb93dd18c21d_hc02.webp"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\images\\385a0c26-93e4-4d8b-bdb1-9539816f16a3_hc06.webp",
+      "PackagePath": "staticwebassets\\images\\385a0c26-93e4-4d8b-bdb1-9539816f16a3_hc06.webp"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\images\\396fdd2f-c437-4082-af28-63f34b4a08de_test.webp",
+      "PackagePath": "staticwebassets\\images\\396fdd2f-c437-4082-af28-63f34b4a08de_test.webp"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\images\\3e432332-78b4-45b6-8a56-af916b9be9df_hc16.webp",
+      "PackagePath": "staticwebassets\\images\\3e432332-78b4-45b6-8a56-af916b9be9df_hc16.webp"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\images\\3f5c90d9-82e6-4dcf-ad28-8d45da0ccb1f_hc13.webp",
+      "PackagePath": "staticwebassets\\images\\3f5c90d9-82e6-4dcf-ad28-8d45da0ccb1f_hc13.webp"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\images\\4dd47dc8-7000-47b8-8fd3-207b9163ed54_mmt19-11.png",
+      "PackagePath": "staticwebassets\\images\\4dd47dc8-7000-47b8-8fd3-207b9163ed54_mmt19-11.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\images\\631996b0-5f61-42df-909b-d53d9b081bf0_hc11.webp",
+      "PackagePath": "staticwebassets\\images\\631996b0-5f61-42df-909b-d53d9b081bf0_hc11.webp"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\images\\72bf2628-e5d1-4256-8c70-739d91fe30af_hc05.webp",
+      "PackagePath": "staticwebassets\\images\\72bf2628-e5d1-4256-8c70-739d91fe30af_hc05.webp"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\images\\787fc63b-682c-4c72-a599-d4235c8e1eb5_hc07.webp",
+      "PackagePath": "staticwebassets\\images\\787fc63b-682c-4c72-a599-d4235c8e1eb5_hc07.webp"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\images\\assets\\vnpay-qr.jpg",
+      "PackagePath": "staticwebassets\\images\\assets\\vnpay-qr.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\images\\b5034a23-a5f1-403a-8d19-06ed9f26da71_hc14.webp",
+      "PackagePath": "staticwebassets\\images\\b5034a23-a5f1-403a-8d19-06ed9f26da71_hc14.webp"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\images\\c7ce7325-2977-4e96-8863-a152e07f9877_hc12.webp",
+      "PackagePath": "staticwebassets\\images\\c7ce7325-2977-4e96-8863-a152e07f9877_hc12.webp"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\images\\d4069e4b-5df7-49f3-bcd4-89520aec73a6_hc15.webp",
+      "PackagePath": "staticwebassets\\images\\d4069e4b-5df7-49f3-bcd4-89520aec73a6_hc15.webp"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\images\\ddc09900-2906-4e58-9cda-4c2261651e70_test.webp",
+      "PackagePath": "staticwebassets\\images\\ddc09900-2906-4e58-9cda-4c2261651e70_test.webp"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\images\\e0c16115-c1c5-42f4-9c0d-bd251cfeecd9_hc06.webp",
+      "PackagePath": "staticwebassets\\images\\e0c16115-c1c5-42f4-9c0d-bd251cfeecd9_hc06.webp"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\images\\e35f300e-fd5c-4056-b40b-3cd2cc22fa61_hc08.webp",
+      "PackagePath": "staticwebassets\\images\\e35f300e-fd5c-4056-b40b-3cd2cc22fa61_hc08.webp"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\images\\fe975232-d780-4da8-920d-8f5bf3f45f3d_hc10.webp",
+      "PackagePath": "staticwebassets\\images\\fe975232-d780-4da8-920d-8f5bf3f45f3d_hc10.webp"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\about\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\about\\business.png",
+      "PackagePath": "staticwebassets\\img\\about\\business.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\banner\\banner.png",
+      "PackagePath": "staticwebassets\\img\\banner\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\banner\\bradcam.png",
+      "PackagePath": "staticwebassets\\img\\banner\\bradcam.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\banner\\bradcam2.png",
+      "PackagePath": "staticwebassets\\img\\banner\\bradcam2.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\banner\\counter_bg.png",
+      "PackagePath": "staticwebassets\\img\\banner\\counter_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\banner\\man.png",
+      "PackagePath": "staticwebassets\\img\\banner\\man.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\img\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\blog\\blog_1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\blog\\blog_2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\blog\\blog_3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\blog\\blog_4.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\blog\\learn_about_bg.png",
+      "PackagePath": "staticwebassets\\img\\blog\\learn_about_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\blog\\single_blog_1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\blog\\single_blog_2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\blog\\single_blog_3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\blog\\single_blog_4.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\blog\\single_blog_5.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_5.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\blog\\slide_thumb_1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\slide_thumb_1.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\causes\\1.png",
+      "PackagePath": "staticwebassets\\img\\causes\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\causes\\2.png",
+      "PackagePath": "staticwebassets\\img\\causes\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\causes\\3.png",
+      "PackagePath": "staticwebassets\\img\\causes\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\causes\\4.png",
+      "PackagePath": "staticwebassets\\img\\causes\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\causes\\5.png",
+      "PackagePath": "staticwebassets\\img\\causes\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\causes\\6.png",
+      "PackagePath": "staticwebassets\\img\\causes\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\causes\\large_img.png",
+      "PackagePath": "staticwebassets\\img\\causes\\large_img.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\comment\\comment_1.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_1.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\comment\\comment_2.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_2.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\comment\\comment_3.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_3.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\footer_logo.png",
+      "PackagePath": "staticwebassets\\img\\footer_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\help\\1.png",
+      "PackagePath": "staticwebassets\\img\\help\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\help\\2.png",
+      "PackagePath": "staticwebassets\\img\\help\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\help\\3.png",
+      "PackagePath": "staticwebassets\\img\\help\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\news\\1.png",
+      "PackagePath": "staticwebassets\\img\\news\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\news\\2.png",
+      "PackagePath": "staticwebassets\\img\\news\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\news\\news_1.png",
+      "PackagePath": "staticwebassets\\img\\news\\news_1.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\news\\news_2.png",
+      "PackagePath": "staticwebassets\\img\\news\\news_2.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\post\\next.png",
+      "PackagePath": "staticwebassets\\img\\post\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\post\\post_1.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_1.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\post\\post_10.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_10.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\post\\post_2.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_2.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\post\\post_3.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_3.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\post\\post_4.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_4.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\post\\post_5.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_5.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\post\\post_6.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_6.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\post\\post_7.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_7.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\post\\post_8.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_8.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\post\\post_9.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_9.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\post\\preview.png",
+      "PackagePath": "staticwebassets\\img\\post\\preview.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\volenteer\\1.png",
+      "PackagePath": "staticwebassets\\img\\volenteer\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\volenteer\\2.png",
+      "PackagePath": "staticwebassets\\img\\volenteer\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\img\\volenteer\\3.png",
+      "PackagePath": "staticwebassets\\img\\volenteer\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\ajax-form.js",
+      "PackagePath": "staticwebassets\\js\\ajax-form.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\gijgo.min.js",
+      "PackagePath": "staticwebassets\\js\\gijgo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\scrollIt.js",
+      "PackagePath": "staticwebassets\\js\\scrollIt.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\CHANGES.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\CHANGES.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\LICENSE.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\README.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\SECURITY.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\SECURITY.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\adapters\\jquery.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\adapters\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\bender-runner.config.json",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\bender-runner.config.json"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\build-config.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\build-config.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\config.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\contents.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\contents.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\af.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\az.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\bn.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\bn.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\bs.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\da.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\de.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\el.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\en-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\en.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\es.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\et.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\fo.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\he.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\id.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\is.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\is.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\it.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\ka.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\ka.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\km.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\mk.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\mn.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\ms.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\no.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\si.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\th.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\about\\dialogs\\about.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\about\\dialogs\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\copyformatting\\cursors\\cursor-disabled.svg",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\copyformatting\\cursors\\cursor-disabled.svg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\copyformatting\\cursors\\cursor.svg",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\copyformatting\\cursors\\cursor.svg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\copyformatting\\styles\\copyformatting.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\copyformatting\\styles\\copyformatting.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\dialog\\dialogDefinition.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\dialog\\dialogDefinition.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\dialog\\styles\\dialog.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\dialog\\styles\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\div\\dialogs\\div.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\div\\dialogs\\div.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\LICENSE.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\README.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\plugindefinition.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\plugindefinition.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\_helpers\\tools.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\_helpers\\tools.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\authentication.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\authentication.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\exportpdf.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\exportpdf.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\configfilename.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\configfilename.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\configfilename.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\configfilename.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\emptyeditor.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\emptyeditor.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\emptyeditor.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\emptyeditor.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integration.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integration.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integration.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integration.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notifications.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notifications.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notifications.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notifications.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notificationsasync.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notificationsasync.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notificationsasync.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notificationsasync.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\paperformat.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\paperformat.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\paperformat.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\paperformat.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\readonly.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\readonly.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\readonly.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\readonly.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\stylesheets.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\stylesheets.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\stylesheets.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\stylesheets.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenfetching.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenfetching.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenfetching.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenfetching.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\notification.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\notification.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\resourcespaths.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\resourcespaths.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\statistics.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\statistics.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\stylesheets.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\exportpdf\\tests\\stylesheets.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\find\\dialogs\\find.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\find\\dialogs\\find.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\forms\\dialogs\\button.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\forms\\dialogs\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\forms\\dialogs\\checkbox.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\forms\\dialogs\\checkbox.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\forms\\dialogs\\form.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\forms\\dialogs\\form.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\forms\\dialogs\\hiddenfield.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\forms\\dialogs\\hiddenfield.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\forms\\dialogs\\radio.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\forms\\dialogs\\radio.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\forms\\dialogs\\select.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\forms\\dialogs\\select.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\forms\\dialogs\\textarea.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\forms\\dialogs\\textarea.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\forms\\dialogs\\textfield.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\forms\\dialogs\\textfield.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\forms\\images\\hiddenfield.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\forms\\images\\hiddenfield.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\icons.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\iframe\\dialogs\\iframe.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\iframe\\dialogs\\iframe.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\iframe\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\iframe\\images\\placeholder.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\image\\dialogs\\image.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\image\\dialogs\\image.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\image\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\image\\images\\noimage.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\link\\dialogs\\anchor.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\link\\dialogs\\anchor.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\link\\dialogs\\link.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\link\\dialogs\\link.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\link\\images\\anchor.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\link\\images\\anchor.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\liststyle\\dialogs\\liststyle.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\liststyle\\dialogs\\liststyle.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\magicline\\images\\icon.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\magicline\\images\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\pagebreak\\images\\pagebreak.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\pagebreak\\images\\pagebreak.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\pastefromword\\filter\\default.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\pastefromword\\filter\\default.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\pastetools\\filter\\common.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\pastetools\\filter\\common.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\pastetools\\filter\\image.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\pastetools\\filter\\image.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\preview\\images\\pagebreak.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\preview\\images\\pagebreak.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\preview\\preview.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\preview\\preview.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\preview\\styles\\screen.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\preview\\styles\\screen.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\scayt\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\scayt\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\scayt\\LICENSE.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\scayt\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\scayt\\README.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\scayt\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\scayt\\dialogs\\options.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\scayt\\dialogs\\options.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_address.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_address.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_blockquote.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_blockquote.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_div.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_div.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_h1.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_h1.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_h2.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_h2.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_h3.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_h3.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_h4.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_h4.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_h5.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_h5.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_h6.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_h6.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_p.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_p.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_pre.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\showblocks\\images\\block_pre.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\dialogs\\smiley.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\dialogs\\smiley.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\angel_smile.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\angel_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\angel_smile.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\angel_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\angry_smile.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\angry_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\angry_smile.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\angry_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\broken_heart.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\broken_heart.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\broken_heart.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\broken_heart.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\confused_smile.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\confused_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\confused_smile.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\confused_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\cry_smile.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\cry_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\cry_smile.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\cry_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\devil_smile.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\devil_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\devil_smile.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\devil_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\embaressed_smile.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\embaressed_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\envelope.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\envelope.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\envelope.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\envelope.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\heart.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\heart.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\heart.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\heart.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\kiss.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\kiss.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\kiss.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\kiss.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\lightbulb.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\lightbulb.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\lightbulb.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\lightbulb.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\omg_smile.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\omg_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\omg_smile.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\omg_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\regular_smile.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\regular_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\regular_smile.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\regular_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\sad_smile.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\sad_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\sad_smile.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\sad_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\shades_smile.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\shades_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\shades_smile.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\shades_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\teeth_smile.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\teeth_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\teeth_smile.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\teeth_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\thumbs_down.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\thumbs_down.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\thumbs_down.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\thumbs_down.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\thumbs_up.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\thumbs_up.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\thumbs_up.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\thumbs_up.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\tongue_smile.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\tongue_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\tongue_smile.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\tongue_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\tounge_smile.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\tounge_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\wink_smile.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\wink_smile.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\smiley\\images\\wink_smile.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\smiley\\images\\wink_smile.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\table\\dialogs\\table.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\table\\dialogs\\table.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\templates\\dialogs\\templates.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\templates\\dialogs\\templates.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\templates\\dialogs\\templates.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\templates\\dialogs\\templates.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\templates\\templatedefinition.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\templates\\templatedefinition.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\templates\\templates\\default.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\templates\\templates\\default.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\templates\\templates\\images\\template1.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\templates\\templates\\images\\template1.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\templates\\templates\\images\\template2.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\templates\\templates\\images\\template2.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\templates\\templates\\images\\template3.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\templates\\templates\\images\\template3.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\plugins\\widget\\images\\handle.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\plugins\\widget\\images\\handle.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\css\\samples.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\css\\samples.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\img\\github-top.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\img\\github-top.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\img\\header-bg.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\img\\header-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\img\\header-separator.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\img\\header-separator.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\img\\logo.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\img\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\img\\navigation-tip.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\img\\navigation-tip.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\index.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\js\\sample.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\js\\sample.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\js\\sf.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\js\\sf.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\ajax.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\ajax.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\api.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\api.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\appendto.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\appendto.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\assets\\posteddata.php",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\assets\\posteddata.php"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\assets\\sample.jpg",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\assets\\sample.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\datafiltering.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\datafiltering.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\dialog\\dialog.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\dialog\\dialog.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\divreplace.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\divreplace.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\enterkey\\enterkey.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\enterkey\\enterkey.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\index.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\inlineall.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\inlineall.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\inlinebycode.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\inlinebycode.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\inlinetextarea.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\inlinetextarea.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\jquery.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\jquery.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\magicline\\magicline.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\magicline\\magicline.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\readonly.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\readonly.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\replacebyclass.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\replacebyclass.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\replacebycode.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\replacebycode.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\sample.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\sample.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\sample.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\sample.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\sample_posteddata.php",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\sample_posteddata.php"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\tabindex.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\tabindex.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\toolbar\\toolbar.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\toolbar\\toolbar.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\uicolor.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\uicolor.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\uilanguages.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\uilanguages.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\old\\xhtmlstyle.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\old\\xhtmlstyle.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\toolbarconfigurator\\index.html",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\toolbarconfigurator\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\LICENSE",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\dialog.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\dialog_ie.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\dialog_ie.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\editor.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\editor.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\editor_gecko.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\editor_gecko.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\editor_ie.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\editor_ie.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\editor_ie8.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\editor_ie8.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\icons.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\images\\close.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\images\\lock.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\images\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\images\\refresh.png",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\images\\refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\skins\\moono-lisa\\readme.md",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\skins\\moono-lisa\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\styles.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\styles.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\plugin\\ckeditor\\vendor\\promise.js",
+      "PackagePath": "staticwebassets\\plugin\\ckeditor\\vendor\\promise.js"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_blog.scss",
+      "PackagePath": "staticwebassets\\scss\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_blog_part.scss",
+      "PackagePath": "staticwebassets\\scss\\_blog_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_bradcam.scss",
+      "PackagePath": "staticwebassets\\scss\\_bradcam.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_btn.scss",
+      "PackagePath": "staticwebassets\\scss\\_btn.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_causes.scss",
+      "PackagePath": "staticwebassets\\scss\\_causes.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_counter.scss",
+      "PackagePath": "staticwebassets\\scss\\_counter.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_donation.scss",
+      "PackagePath": "staticwebassets\\scss\\_donation.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\scss\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_experts.scss",
+      "PackagePath": "staticwebassets\\scss\\_experts.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_extend.scss",
+      "PackagePath": "staticwebassets\\scss\\_extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_latest_activites.scss",
+      "PackagePath": "staticwebassets\\scss\\_latest_activites.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_news.scss",
+      "PackagePath": "staticwebassets\\scss\\_news.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_offers.scss",
+      "PackagePath": "staticwebassets\\scss\\_offers.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_reason.scss",
+      "PackagePath": "staticwebassets\\scss\\_reason.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_responsive.scss",
+      "PackagePath": "staticwebassets\\scss\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_section_title.scss",
+      "PackagePath": "staticwebassets\\scss\\_section_title.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_service.scss",
+      "PackagePath": "staticwebassets\\scss\\_service.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_slick-nav.scss",
+      "PackagePath": "staticwebassets\\scss\\_slick-nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_slider.scss",
+      "PackagePath": "staticwebassets\\scss\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_tesmonial.scss",
+      "PackagePath": "staticwebassets\\scss\\_tesmonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_theme-default.scss",
+      "PackagePath": "staticwebassets\\scss\\_theme-default.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_varriable.scss",
+      "PackagePath": "staticwebassets\\scss\\_varriable.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\_voolenteer.scss",
+      "PackagePath": "staticwebassets\\scss\\_voolenteer.scss"
+    },
+    {
+      "Id": "C:\\Users\\PhuLoc\\source\\repos\\CharityConnect\\CharityConnect\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CharityConnect.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CharityConnect.props",
+      "PackagePath": "build\\CharityConnect.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CharityConnect.props",
+      "PackagePath": "buildMultiTargeting\\CharityConnect.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CharityConnect.props",
+      "PackagePath": "buildTransitive\\CharityConnect.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

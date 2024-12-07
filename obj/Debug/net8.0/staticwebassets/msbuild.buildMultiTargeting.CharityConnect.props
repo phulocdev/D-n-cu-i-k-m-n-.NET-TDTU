@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CharityConnect.props" />
+</Project>

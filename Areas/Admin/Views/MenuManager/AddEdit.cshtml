@@ -1,0 +1,73 @@
+﻿@model Menu
+
+@{
+    ViewBag.Title = $"{ViewBag.Operation} menu";
+}
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<h4 class="col-12 mb-0 py-3">@ViewBag.Operation menu</h4>
+<div class="my-3 p-4 border rounded bg-light">
+    <form id="form" class="form-compact w-100" asp-area="Admin" asp-controller="MenuManager" asp-action="AddEdit" method="post">
+        <input type="hidden" asp-for="MenuId" />
+        <div class="row paddingBottom20">
+            <div class="container col-12">
+                <div class="form-group row align-items-center">
+                    <label for="Title" class="col-2 col-form-label-sm text-right">Tên menu</label>
+                    <div class="col-6">
+                        <div class="input-group">
+                            <input asp-for="Name" class="form-control form-control-sm">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group row align-items-center">
+                    <label for="Location" class="col-2 col-form-label-sm text-right">Liên kết ngoài</label>
+                    <div class="col-6">
+                        <div class="input-group">
+                            <input asp-for="Link" name="Link" value="@Model.Link" data-val="false" class="form-control form-control-sm" />
+                        </div>
+                    </div>
+                </div>
+
+              
+                <div class="form-group row align-items-center">
+                    <label for="Meta" class="col-2 col-form-label-sm text-right">Meta</label>
+                    <div class="col-6">
+                        <div class="input-group">
+                            <input asp-for="Meta" name="Meta" class="form-control form-control-sm" />
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group row align-items-center">
+                    <label for="Hide" class="col-2 col-form-label-sm text-right">Ẩn/Hiện</label>
+                    <div class="col-6">
+                        <div class="form-check">
+                            <input asp-for="Hide" name="Hide" class="form-check-input" type="checkbox" id="Hide" />
+                            <label class="form-check-label" for="Hide"></label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group row align-items-center">
+                    <label for="Order" class="col-2 col-form-label-sm text-right">Thứ tự</label>
+                    <div class="col-6">
+                        <div class="input-group">
+                            <input asp-for="Order" name="Order" class="form-control form-control-sm" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="form-group row align-items-center">
+            <label for="Order" class="col-2 col-form-label-sm text-right"></label>
+            <div class="col-6">
+                <button type="submit" class="btn btn-primary">Lưu</button>
+                <a asp-area="Admin" asp-action="Index" asp-controller="CaseManager" class="btn btn-outline-dark">Hủy</a>
+            </div>
+        </div>
+    </form>
+</div>

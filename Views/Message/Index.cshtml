@@ -1,0 +1,30 @@
+﻿<div class="container" style="padding-top: 40px ;display: flex; flex-direction: column; height: 80vh; margin: 0px auto 40px; font-family: Arial, sans-serif; background-color: #f9f9f9; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    <!-- Header hiển thị thông tin người dùng -->
+    <div class="header" style="padding: 16px; background-color: #007bff; color: #fff; text-align: center; font-weight: bold; border-top-left-radius: 8px; border-top-right-radius: 8px;">
+        Tư vấn hoàn cảnh khó khăn
+    </div>
+
+    <!-- Danh sách tin nhắn -->
+    <div class="messages" style="flex: 1; padding: 16px; overflow-y: auto; background-color: #fff; border-bottom: 1px solid #ccc;">
+        <ul id="messagesList" style="list-style-type: none; padding: 0; margin: 0;">
+        </ul>
+    </div>
+
+    <!-- Input gửi tin nhắn -->
+    <div class="input-area" style="padding: 8px; background-color: #f1f1f1; border-top: 1px solid #ccc; display: flex; align-items: center;">
+        <!-- Trường userInput với giá trị email mặc định -->
+        <input hidden type="text" id="userInput" placeholder="Tên của bạn..."
+               style="flex: 1; padding: 10px; border: 1px solid #ccc; border-radius: 24px; margin-right: 8px;"
+               value="@ViewBag.UserEmail" readonly />
+
+        <!-- Trường nhập tin nhắn -->
+        <input type="text" id="messageInput" placeholder="Nhập tin nhắn..."
+               style="flex: 2; padding: 10px; border: 1px solid #ccc; border-radius: 24px; margin-right: 8px;" />
+
+        <!-- Nút gửi tin nhắn -->
+        <input type="button" id="sendButton" value="Gửi"
+               style="background-color: #007bff; color: #fff; padding: 8px 16px; border: none; border-radius: 24px; cursor: pointer;" />
+    </div>
+</div>
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/chat.js"></script>
